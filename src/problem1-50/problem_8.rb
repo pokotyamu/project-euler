@@ -1,3 +1,9 @@
+# [問題]
+# The four adjacent digits in the 1000-digit number that have the greatest product are 9 × 9 × 8 × 9 = 5832.
+# Find the thirteen adjacent digits in the 1000-digit number that have the greatest product. What is the value of this product?
+# 下の1000桁の数値の中で連続する4個の数の掛け算の最大値は 9 x 9 x 8 x 9 = 5832.
+# 連続する13個の数値の掛け算の最大値はなんでしょう？
+
 input = <<~INPUT.delete!("\n")
   73167176531330624919225119674426574742355349194934
   96983520312774506326239578318016984801869478851843
